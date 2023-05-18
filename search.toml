@@ -1,0 +1,13 @@
+[input]
+html_selector = "article"
+base_directory = "output"
+
+[[input.files]]
+path = "pages/privacy-policy.html"
+url = "/pages/privacy-policy.html"
+title = "Privacy Policy"
+
+[[input.files]]
+path = "blog/2023/05/24/this-week-in-graphql-496/index.html"
+url = "/blog/2023/05/24/this-week-in-graphql-496/"
+title = "This Week in GraphQL 496"

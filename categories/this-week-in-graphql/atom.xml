@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>This Week in GraphQL - This Week in GraphQL</title><link href="https://this-week-in-graphql.org/" rel="alternate"></link><link href="https://this-week-in-graphql.org/categories/this-week-in-graphql/atom.xml" rel="self"></link><id>https://this-week-in-graphql.org/</id><updated>2023-05-24T00:00:00-04:00</updated><entry><title>This Week in GraphQL 496</title><link href="https://this-week-in-graphql.org/blog/2023/05/24/this-week-in-graphql-496/" rel="alternate"></link><published>2023-05-24T00:00:00-04:00</published><updated>2023-05-24T00:00:00-04:00</updated><author><name>TWiG Contributors</name></author><id>tag:this-week-in-graphql.org,2023-05-24:/blog/2023/05/24/this-week-in-graphql-496/</id><summary type="html">&lt;p&gt;Hello and welcome to another issue of &lt;em&gt;This Week in GraphQL&lt;/em&gt;!
+&lt;a href="https://graphql.org/"&gt;GraphQL&lt;/a&gt; is a query language for APIs and a runtime for fulfilling those queries with your existing data.
+This is a weekly summary of its progress and community.
+Want something mentioned? Tag us at &lt;a href="https://twitter.com/ThisWeekInGraphQL"&gt;@ThisWeekInGraphQL&lt;/a&gt; on Twitter or &lt;a href="https://mastodon.social/@thisweekingraphql"&gt;@ThisWeekinGraphQL …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hello and welcome to another issue of &lt;em&gt;This Week in GraphQL&lt;/em&gt;!
+&lt;a href="https://graphql.org/"&gt;GraphQL&lt;/a&gt; is a query language for APIs and a runtime for fulfilling those queries with your existing data.
+This is a weekly summary of its progress and community.
+Want something mentioned? Tag us at &lt;a href="https://twitter.com/ThisWeekInGraphQL"&gt;@ThisWeekInGraphQL&lt;/a&gt; on Twitter or &lt;a href="https://mastodon.social/@thisweekingraphql"&gt;@ThisWeekinGraphQL&lt;/a&gt; on mastodon.social, or &lt;a href="https://github.com/doc-jones/TWiG/pulls"&gt;send us a pull request&lt;/a&gt;.
+Want to get involved? &lt;a href="https://github.com/doc-jones/twig"&gt;We love contributions&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This Week in GraphQL&lt;/em&gt; is openly developed &lt;a href="https://github.com/doc-jones/TWiG/"&gt;on GitHub&lt;/a&gt;.
+If you find any errors in this week's issue, &lt;a href="https://github.com/doc-jones/TWiG/pulls"&gt;please submit a PR&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="updates-from-the-graphql-community"&gt;&lt;a class="toclink" href="#updates-from-the-graphql-community"&gt;Updates from the GraphQL Community&lt;/a&gt;&lt;/h2&gt;
+&lt;!--
+
+Dear community contributors:
+Please read README.md for guidance on submissions.
+Each submitted link should be of the form:
+
+* [Title of the Linked Page](https://example.com/my_article)
+
+If you don't know which category to use, feel free to submit a PR anyway
+and just ask the editors to select the category.
+
+--&gt;
+
+&lt;h3 id="official"&gt;&lt;a class="toclink" href="#official"&gt;Official&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id="foundation"&gt;&lt;a class="toclink" href="#foundation"&gt;Foundation&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id="newsletters"&gt;&lt;a class="toclink" href="#newsletters"&gt;Newsletters&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id="projecttooling-updates"&gt;&lt;a class="toclink" href="#projecttooling-updates"&gt;Project/Tooling Updates&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id="observationsthoughts"&gt;&lt;a class="toclink" href="#observationsthoughts"&gt;Observations/Thoughts&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id="graphql-walkthroughs"&gt;&lt;a class="toclink" href="#graphql-walkthroughs"&gt;GraphQL Walkthroughs&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id="research"&gt;&lt;a class="toclink" href="#research"&gt;Research&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id="miscellaneous"&gt;&lt;a class="toclink" href="#miscellaneous"&gt;Miscellaneous&lt;/a&gt;&lt;/h3&gt;
+&lt;h2 id="crate-of-the-week"&gt;&lt;a class="toclink" href="#crate-of-the-week"&gt;Crate of the Week&lt;/a&gt;&lt;/h2&gt;
+&lt;!-- COTW goes here --&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/doc-jones/TWiG/issues"&gt;Please submit your suggestions and votes for next week&lt;/a&gt;!&lt;/p&gt;
+&lt;h2 id="call-for-participation"&gt;&lt;a class="toclink" href="#call-for-participation"&gt;Call for Participation&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Always wanted to contribute to open-source projects but did not know where to start?
+Every week we highlight some tasks from the GraphQL community for you to pick and get started!&lt;/p&gt;
+&lt;p&gt;Some of these tasks may also have mentors available, visit the task page for more information.&lt;/p&gt;
+&lt;!-- CFPs go here, use this format: * [project name - title of issue](link to issue) --&gt;
+&lt;!-- * [ - ]() --&gt;
+
+&lt;h2 id="updates-from-the-graphql-project"&gt;&lt;a class="toclink" href="#updates-from-the-graphql-project"&gt;Updates from the GraphQL Project&lt;/a&gt;&lt;/h2&gt;
+&lt;!-- GraphQL updates go here --&gt;
+
+&lt;h2 id="upcoming-events"&gt;&lt;a class="toclink" href="#upcoming-events"&gt;Upcoming Events&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;GraphQL Events between 2023-05-24 - 2023-06-21&lt;/p&gt;
+&lt;!-- Events list goes here --&gt;
+
+&lt;h1 id="quote-of-the-week"&gt;&lt;a class="toclink" href="#quote-of-the-week"&gt;Quote of the Week&lt;/a&gt;&lt;/h1&gt;
+&lt;!-- QOTW goes here --&gt;
+
+&lt;p&gt;&lt;em&gt;This Week in Rust is edited by: &lt;a href="https://github.com/doc-jones"&gt;Doc Jones&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><category term="This Week in GraphQL"></category></entry></feed>
